@@ -1,22 +1,22 @@
 ### hello github 👋
 
-this is my work account at [`@massmutual`](https://github.com/massmutual)
+this dormat github account used to be my work account at [`@massmutual`](https://github.com/massmutual) and [`@massmutual-git`](https://github.com/massmutual-git)
+
 
 <br></br>
-### details:
+### details
 
-work duration: 1 Aug 2022 - 19 March 2026 [3yrs 7months]
+🕐 **duration:** <kbd><time datetime="2022-08-01">Aug 2022</time></kbd> – <kbd><time datetime="2026-03-19">Mar 2026</time></kbd> <sub>(3 yrs 7 mos)</sub>
 
-role: build, platform and infrastructure engineer - CDP DevOps/EDAP 
+🛠 **role:** Build, Platform & Infrastructure Engineer — CDP DevOps / EDAP
 
-personal website: [`muqtxdir.com`](https://muqtxdir.com)
+🌐 **website:** [`muqtxdir.com`](https://muqtxdir.com)
 
-personal email: `contact@muqtxdir.com`
+📬 **contact:** `contact@muqtxdir.com`
 
-personal github: [`@muqtxdir`](https://github.com/Muqtxdir)
+🐙 **github:** [`@muqtxdir`](https://github.com/Muqtxdir)
 
-<br></br>
-<br></br>
+
 <br></br>
 <br></br>
 profile character: [clu2](https://tron.fandom.com/wiki/Clu_2)
