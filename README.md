@@ -1,6 +1,6 @@
 ### hello github 👋
 
-this dormat github account used to be my work account at [`@massmutual`](https://github.com/massmutual) and [`@massmutual-git`](https://github.com/massmutual-git)
+this dormant github account used to be my work account at [`@massmutual`](https://github.com/massmutual) and [`@massmutual-git`](https://github.com/massmutual-git)
 
 
 <br></br>
